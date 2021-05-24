@@ -1,0 +1,10 @@
+>>> a=int(input())
+-63367
+>>> if (a%2==1):
+	print("a is odd")
+else:
+	print("a is even")
+
+	
+a is odd
+>>> 
